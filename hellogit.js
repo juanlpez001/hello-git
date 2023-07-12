@@ -1,2 +1,2 @@
-console.log("Hello Git")
+console.log("new Hello Git")
 
